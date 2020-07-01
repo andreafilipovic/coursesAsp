@@ -1,0 +1,12 @@
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\bin\Debug\netcoreapp3.1\Courses.Application.deps.json
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\bin\Debug\netcoreapp3.1\Courses.Application.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\bin\Debug\netcoreapp3.1\Courses.Application.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\bin\Debug\netcoreapp3.1\Courses.Domain.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\bin\Debug\netcoreapp3.1\Courses.Domain.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\obj\Debug\netcoreapp3.1\Courses.Application.csprojAssemblyReference.cache
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\obj\Debug\netcoreapp3.1\Courses.Application.AssemblyInfoInputs.cache
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\obj\Debug\netcoreapp3.1\Courses.Application.AssemblyInfo.cs
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\obj\Debug\netcoreapp3.1\Courses.Application.csproj.CopyComplete
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\obj\Debug\netcoreapp3.1\Courses.Application.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\obj\Debug\netcoreapp3.1\Courses.Application.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Application\obj\Debug\netcoreapp3.1\Courses.Application.csproj.CoreCompileInputs.cache

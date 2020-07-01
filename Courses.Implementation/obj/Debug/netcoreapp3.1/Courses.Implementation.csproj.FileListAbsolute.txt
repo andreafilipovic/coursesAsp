@@ -1,0 +1,16 @@
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\bin\Debug\netcoreapp3.1\Courses.Implementation.deps.json
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\bin\Debug\netcoreapp3.1\Courses.Implementation.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\bin\Debug\netcoreapp3.1\Courses.Implementation.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\bin\Debug\netcoreapp3.1\Courses.Application.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\bin\Debug\netcoreapp3.1\Courses.Domain.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\bin\Debug\netcoreapp3.1\Courses.EfDataAccess.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\bin\Debug\netcoreapp3.1\Courses.Application.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\bin\Debug\netcoreapp3.1\Courses.EfDataAccess.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\bin\Debug\netcoreapp3.1\Courses.Domain.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\obj\Debug\netcoreapp3.1\Courses.Implementation.csprojAssemblyReference.cache
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\obj\Debug\netcoreapp3.1\Courses.Implementation.AssemblyInfoInputs.cache
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\obj\Debug\netcoreapp3.1\Courses.Implementation.AssemblyInfo.cs
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\obj\Debug\netcoreapp3.1\Courses.Implementation.csproj.CopyComplete
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\obj\Debug\netcoreapp3.1\Courses.Implementation.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\obj\Debug\netcoreapp3.1\Courses.Implementation.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.Implementation\obj\Debug\netcoreapp3.1\Courses.Implementation.csproj.CoreCompileInputs.cache

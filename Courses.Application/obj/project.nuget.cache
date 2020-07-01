@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DpWfsscoZ3qh74bUNZON0h4Ac1OmcdIyigBhI1a+GUdFaAJkvmVu0ugBRUBTTDa6FJA+FVB2SVP5y0xC5hXH4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anja\\source\\repos\\CoursesAsp\\Courses.Application\\Courses.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anja\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Anja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

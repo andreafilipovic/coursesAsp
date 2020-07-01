@@ -1,0 +1,15 @@
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\bin\Debug\netcoreapp3.1\Courses.Domain.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\obj\Debug\netcoreapp3.1\Courses.EfDataAccess.csprojAssemblyReference.cache
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\obj\Debug\netcoreapp3.1\Courses.EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\obj\Debug\netcoreapp3.1\Courses.EfDataAccess.AssemblyInfo.cs
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\bin\Debug\netcoreapp3.1\Courses.EfDataAccess.deps.json
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\bin\Debug\netcoreapp3.1\Courses.EfDataAccess.runtimeconfig.json
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\bin\Debug\netcoreapp3.1\Courses.EfDataAccess.runtimeconfig.dev.json
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\bin\Debug\netcoreapp3.1\Courses.EfDataAccess.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\bin\Debug\netcoreapp3.1\Courses.EfDataAccess.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\bin\Debug\netcoreapp3.1\Courses.Domain.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\obj\Debug\netcoreapp3.1\Courses.EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\obj\Debug\netcoreapp3.1\Courses.EfDataAccess.csproj.CopyComplete
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\obj\Debug\netcoreapp3.1\Courses.EfDataAccess.dll
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\obj\Debug\netcoreapp3.1\Courses.EfDataAccess.pdb
+C:\Users\Anja\source\repos\CoursesAsp\Courses.EfDataAccess\obj\Debug\netcoreapp3.1\Courses.EfDataAccess.genruntimeconfig.cache
