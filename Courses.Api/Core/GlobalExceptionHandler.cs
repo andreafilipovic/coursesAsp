@@ -46,6 +46,12 @@ namespace Courses.Api.Core
                             message = "Resource not found."
                         };
                         break;
+                    case NotSubscribedException _:
+                        statusCode = StatusCodes.Status401Unauthorized;
+                        response = new {
+                            message = "You must be subscribed to a course to view lectures and video material."
+                        };
+                        break;
                     case ValidationException validationException:
                         statusCode = StatusCodes.Status422UnprocessableEntity;
 

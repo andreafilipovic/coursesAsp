@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Courses.Application;
 using Courses.Application.DataTransfer;
 using Courses.Application.Exceptions;
 using Courses.Application.Queries;
@@ -17,9 +18,11 @@ namespace Courses.Implementation.Queries
     {
         private readonly CoursesContext _context;
         private readonly IMapper _mapper;
-        public GetOneCourseQuery(CoursesContext context, IMapper mapper) {
+        private readonly IApplicationActor actor;
+        public GetOneCourseQuery(CoursesContext context, IMapper mapper, IApplicationActor actor) {
             _context = context;
             _mapper = mapper;
+            this.actor = actor;
         }
         public int Id => 4;
 
@@ -27,6 +30,10 @@ namespace Courses.Implementation.Queries
 
         public ReadCourseDto Execute(int search)
         {
+            var sub = _context.UserCourse.Any(x => x.CourseId == search && x.UserId == actor.Id);
+            if (!sub) {
+                throw new NotSubscribedException(search);
+            }
             var course = _context.Courses.Find(search);
 
             if (course == null)
